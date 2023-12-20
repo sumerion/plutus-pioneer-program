@@ -1,0 +1,3 @@
+plutus-cheatsheet
+
+docker run -it -v `pwd`:/code --entrypoint=/bin/sh nixos/nix:latest -i
